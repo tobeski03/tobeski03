@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [TekBruh's Theme Gallery](https://github.com/tobeski03/frontend-tekbruh)
 
-- 🌱 I’m currently learning Javascript and Python
+- 🌱 I’m currently learning React and Python
 
 - ❓ Ask me about anything related to Front-End Web Development
 
